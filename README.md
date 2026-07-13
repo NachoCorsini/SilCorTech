@@ -74,7 +74,7 @@ El proyecto va a estar disponible en `http://localhost:5173`.
 ## 👥 Equipo
 
 - **Ignacio Andrés Corsini** — [GitHub](https://github.com/NachoCorsini)
-- **Pablo Andrés Silva**
+- **Pablo Andrés Silva** — [GitHub](https://github.com/andressilva99)
 
 ## 📬 Contacto
 
